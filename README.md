@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust, Debian, openWRT, Webdevelopment, Moodle, schools, education
 - 🌱 I’m currently learning Webdevelopment
 - 💞️ I’m looking to collaborate on school-related projects such as Moodle
-- 📫 How to reach me: just knock at my door, it's room number 400
+- 📫 How to reach me: just knock on my door, it's room number 400
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
